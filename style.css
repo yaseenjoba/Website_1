@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    background-color: #fff;
+    width: 1920px;
+    height: 500px;
+}
+.First-section{
+    background-image: url(photos/ph1.png);
+    background-position: center;
+    background-repeat: no-repeat ;
+    background-size: cover;
+    width: 1919.66px;
+    height: 630px;
+}
+ .First{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+}
+.Font{
+    color: #fff;
+    
+    font-size: 68px;
+}
+.First-button{
+    background-color:#04BEF3 ;
+    width: 184px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+     margin: 0px;
+    padding-top: 0px;
+    border-radius: 5%;
+}
+p{
+font-family: 'Kufam', cursive;
+font-family: 'Rubik', sans-serif;   
+}
+a{
+    text-decoration: none;
+
+}
+.main-header .First-section .R-content{
+    display: flex;
+    align-items: center;
+    background-color: none ;
+    width: 170px;
+    height: 42px;
+    border: 1px solid #fff;
+    font-family: 'Rubik', sans-serif;  
+    align-items: center;
+    justify-content: center;
+    position:absolute;
+    left: 1600px;
+    top: 50px;
+}
+.second-section{
+    width: 1919.66px;
+    height: 200px;
+}
+.second{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+}
+.Third-section{
+    background-image: url(photos/ph2.png);
+    background-position: center;
+    background-repeat: no-repeat ;
+    background-size: cover;
+    width: 1919.66px;
+    height: 411px;
+    margin-bottom: 50px;
+
+}
+.Third{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+  
+}
+.Fourth-section{
+    width: 1920px;
+    height: 400px;
+
+}
+.Fourth{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+}
+ul {
+    display: inline-block;
+    padding : 0px;
+    list-style: none;
+}
+.all-lists{
+    width: 100%;
+}
+.first-list{
+
+    position:absolute;
+    left: 72px;
+}
+.second-list{
+    position: absolute;
+    left: 805px;
+}
+.Third-list{
+    position: absolute;
+    left: 1537px;
+}
+.Fifth{
+    width: 100%;
+    height: 100%;
+    background-color: #24202E;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: #fff;
+}
+
